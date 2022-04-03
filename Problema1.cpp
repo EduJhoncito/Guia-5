@@ -1,9 +1,3 @@
-//1. Una tienda ha puesto en oferta la venta de un producto ofreciendo un descuento igual al 15% 
-//del importe de la compra. El importe compra se calcula multiplicando el precio del producto por 
-//la cantidad de unidades adquiridas. El importe a pagar se calcula restando el importe compra 
-//menos  el  importe  del  descuento.  Dados  el  precio  del  producto  y  la  cantidad  de  unidades 
-//adquiridas, diseñe un algoritmo que determine el importe de la compra, el importe del descuento 
-//y el importe a pagar. 
 
 #include <iostream>
 using namespace std;
