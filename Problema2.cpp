@@ -1,10 +1,3 @@
-//2.  Una  empresa  de  transportes  aplica  un  descuento  del  7%  del  importe  compra.  El  importe 
-//compra se calcula multiplicando el precio del pasaje por la cantidad de pasajes adquiridos. El 
-//importe a pagar se calcula restando el importe compra menos el importe del descuento. Como 
-//incentivo adicional la empresa obsequia 3 chocolates por cada pasaje adquirido. Dados el precio 
-//del pasaje y la cantidad de pasajes adquiridos, diseñe un algoritmo que determine el importe de 
-//la compra, el importe del descuento, el importe a pagar y la cantidad de chocolates de obsequio 
-//que le corresponden a un cliente. 
 
 #include <iostream>
 using namespace std;
