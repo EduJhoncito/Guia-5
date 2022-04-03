@@ -1,9 +1,3 @@
-//4.  Una  empresa  paga  a  sus  empleados  por  horas  trabajadas.  El  sueldo  bruto  se  calcula 
-//multiplicando  las  horas  trabajadas  por  la  tarifa  horaria  del  empleado.  Por  ley,  todo  empleado 
-//esta sujeto a un descuento del 15% del sueldo bruto. El sueldo neto se calcula restando el sueldo 
-//bruto menos el importe del descueto. Dados el número de horas trabajadas y la tarifa horaria de 
-//un empleado, diseñe un algoritmo que determine el sueldo bruto, el descuento y el sueldo neto 
-//del empleado.  
 
 #include <iostream>
 using namespace std;
